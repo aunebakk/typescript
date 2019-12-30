@@ -3,6 +3,7 @@
 // http://sql2x.azurewebsites.net/
 // Generated Date: 9/9/2018 4:01:33 PM
 // Template: sql2x.CrudeTypeScriptGenerator.OverallDesignTypeScriptTranby
+// bump
 module SQL2XTemplateCrudeTableTineCache {
     'use strict';
 
